@@ -10,8 +10,8 @@ These involved data analysis and use of technical financial analysis indicators 
 [Data for Momentum Assignment](https://github.com/ShantanuWelling/SoC-22/blob/main/Momentum%20Data.csv)
 
 [Implementation Summary](https://github.com/ShantanuWelling/SoC-22/blob/main/Implementation%20Summary.pdf) was prepared which contained
-a brief timeline and steps that would be taken to implement the paper [CNN-LSTM](https://github.com/ShantanuWelling/SoC-22/blob/main/CNN-LSTM.pdf)
+a brief timeline and steps that would be taken to implement the paper [CNN-LSTM](https://github.com/ShantanuWelling/SoC-22/blob/main/CNN-LSTM.pdf).
 
 Final step was the implementation of the CNN-LSTM model to predict stock prices of the given dataset of Tata Motors stocks. 
-Here is the [final implementation](https://github.com/ShantanuWelling/SoC-22/blob/main/SoC%20final%20Shantanu.ipynb)
+Here is the [final implementation](https://github.com/ShantanuWelling/SoC-22/blob/main/SoC%20final%20Shantanu.ipynb).
 Here is the [dataset](https://github.com/ShantanuWelling/SoC-22/blob/main/tata.csv) that was used for this implementation.
